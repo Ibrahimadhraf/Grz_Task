@@ -1,0 +1,18 @@
+<resources>
+    <!--mainActivity_strings-->
+    <!--home icon on nav bar-->
+    <string name="home_icon">الرئيسيه</string>
+    <!--buying icon on nav bar-->
+    <string name="by_icon">طلباتي</string>
+    <!--offers icon on nav bar-->
+    <string name="offers_icon">عروض</string>
+    <!--offers icon in nav bar-->
+    <string name="more_icon">المزيد </string>
+    <string name="app_name">المزيد </string>
+    <!--main textView-->
+    <string name="main_text">أشهر المنتجات</string>
+    <!--currency-->
+    <string name="currency">ر.ع</string>
+    <!--search key -->
+    <string name="search_key">إبحث بالمنتجات </string>
+</resources>
